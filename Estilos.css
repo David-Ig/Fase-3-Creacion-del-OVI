@@ -1,4 +1,2 @@
-.intro{
-    width: 70%;
-    margin: 40px;
-}
+.intro{text-align:center;border:1px dotted #000; padding:8px;}
+center{margin:48px 0;}
