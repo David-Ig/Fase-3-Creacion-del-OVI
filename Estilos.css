@@ -1,5 +1,5 @@
 body
 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    width:70%;border:1px dotted rgb(0, 0, 0);padding:8px;margin:auto;
 }
